@@ -8,12 +8,12 @@
 
 ## Scenario Resources
 
-1 S3 bucket
-1 Cognito Userpool
-1 Cognito IdentityPool
+1 S3 bucket 
+1 Cognito Userpool 
+1 Cognito IdentityPool 
 1 API Gateway REST API 
 1 Lambda 
-1 IAM role
+1 IAM role 
 
 ## Scenario Start(s)
 
